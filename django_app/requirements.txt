@@ -1,0 +1,9 @@
+Django==2.0.8
+joblib==0.12.4
+pandas==0.22.0
+python-dateutil==2.7.3
+pytz==2018.5
+scipy==1.1.0
+numpy==1.15.1
+scikit-surprise==1.0.6
+surprise==0.1
